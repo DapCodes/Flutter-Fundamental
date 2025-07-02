@@ -25,9 +25,6 @@ class LatihanDua extends StatelessWidget {
             Column(
               children: [Icon(Icons.share), SizedBox(height: 8), Text('SHARE')],
             ),
-            Column(
-              children: [Image.network(''), SizedBox(height: 8), Text('Foto')],
-            ),
           ],
         ),
       ),
